@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST={__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"/_error":["static/chunks/pages/_error-6477dcbea2a14656e3c5.js"],"/go.mod":["static/chunks/pages/go.mod-f0b5d03a66da85c80ecc.js"],sortedPages:["/_app","/_error","/go.mod"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
