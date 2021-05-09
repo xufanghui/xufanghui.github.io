@@ -8,7 +8,7 @@ interface Props {
 const GoModGuide: FC = () => {
 
 
-  const [selectedLangDict, setSelectedLangDict] = useState(LangDict['en'])
+  const [selectedLangDict, setSelectedLangDict] = useState(LangDict['zh'])
 
   const change = (event)=>{
     var lang = event.target.value;
