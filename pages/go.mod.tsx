@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import { FC, useState } from 'react'
 import { LangDict } from '../lang/support.lang'
-interface Props {
+interface AnatomyProps {
   selectedLangDict: any;
 }
 
@@ -144,7 +144,7 @@ const GoModGuide: FC = () => {
   </>
 }
 
-const Anatomy: FC<Props> = (props:Props) => {
+const Anatomy: FC<AnatomyProps> = (props:AnatomyProps) => {
   const {selectedLangDict} = props
 
   return (
